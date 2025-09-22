@@ -3,10 +3,10 @@
 Sistema de Geração de Testes Unitários com LangChain e Azure ChatGPT
 Versão simplificada e funcional
 
-Autor: Edson Gomes
-Email: edsgom@gmail.com
+Autor: Marcelo José Vieira Filho
+Email: mjvf032571@hotmail.com
 Bootcamp: DIO + BairesDev Machine Learning
-Data: Janeiro 2025
+Data: Setembro 2025
 """
 
 import os
@@ -459,12 +459,12 @@ class TestGeneratorCLI:
         """Exibe banner do sistema."""
         banner = """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                     SISTEMA DE GERAÇÃO DE TESTES UNITÁRIOS                  ║
-║                          LangChain + Azure ChatGPT                          ║
+║                     SISTEMA DE GERAÇÃO DE TESTES UNITÁRIOS                   ║
+║                          LangChain + Azure ChatGPT                           ║
 ║                                                                              ║
-║  Desenvolvido por: Edson Gomes                                              ║
-║  Bootcamp: DIO + BairesDev Machine Learning                                 ║
-║  GitHub: @edsongom1                                                          ║
+║  Desenvolvido por: Marcelo José Vieira Filho                                 ║
+║  Bootcamp: DIO + BairesDev Machine Learning                                  ║
+║  GitHub: @Marselo10                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
         """
         print(banner)
@@ -970,8 +970,8 @@ MODO SIMULAÇÃO:
 - Ideal para testes e demonstrações
 
 SUPORTE:
-- GitHub: @edsongom1
-- Email: edsgom@gmail.com
+- GitHub: @Marselo10
+- Email: mjvf032571@hotmail.com
         """
         
         print(help_text)
